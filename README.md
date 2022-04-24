@@ -4,6 +4,9 @@
 作品網址：https://lightningpi.website/Basic <br/>
 資料庫檔案：basic.sql <br/>
 <br/>
+系統建置規格：<br/>
+PHP、MySQL、CSS、HTML<br/>
+<br/>
 主要功能：<br/>
 會員註冊、會員登入、會員登出<br/>
 系統註冊驗證、登入驗證<br/>
