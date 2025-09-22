@@ -1,7 +1,6 @@
 # Basic
-大二 PHP基礎班<br/>
+大二 PHP 基礎班<br/>
 開發簡易線上留言板 (個人作品)<br/>
-作品網址：https://lightningpi.website/Basic <br/>
 資料庫檔案：basic.sql <br/>
 <br/>
 一、系統建置規格：<br/>
